@@ -1,0 +1,66 @@
+{
+	"compiler": {
+		"version": "0.8.30+commit.73712a01"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "found",
+				"outputs": [],
+				"stateMutability": "payable",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "myValue",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"FoundMe/found.sol": "FoundMe"
+		},
+		"evmVersion": "prague",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"FoundMe/found.sol": {
+			"keccak256": "0x6b43018cb0ebce2b8595ba6282cf83e58001bb8d1136f0135b7c0a4720d94787",
+			"license": "MIT",
+			"urls": [
+				"bzz-raw://d1c19df79f88acfaaa05705302eef97729781170028f74b64c8c252651eee6c3",
+				"dweb:/ipfs/Qmc1HKc93cbtzgwHfjSjRFV4ep64cNV59C2n9uCWi3aatw"
+			]
+		}
+	},
+	"version": 1
+}
